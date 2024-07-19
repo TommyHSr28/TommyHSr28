@@ -2,11 +2,11 @@
 
 About Me:
 
-Everyday is a challenge for me. I deal with Head Trauma which I believe was caused from multiple concussions while playing Football. I have other accounts that I signed up for in GitHub that I don't remember which ones they are.
+-Everyday is a challenge for me. I deal with Head Trauma which I believe was caused from multiple concussions while playing Football. I have other accounts that I signed up for in GitHub that I don't remember which ones they are.
 
-I was a millionaire then lost everything from a bad investment 'Ponzi Scheme' and now my Wife and I are living in my car trying to get back on our feet. I have also recently been a victim of Identity Theft which has been a nightmare for me to clean up the mess it caused. 
+-I was a millionaire then lost everything from a bad investment 'Ponzi Scheme' and now my Wife and I are living in my car trying to get back on our feet. I have also recently been a victim of Identity Theft which has been a nightmare for me to clean up the mess it caused. 
 
-On a positive note I plan to start a blog to help others who have been in similar situations and use whatever I can to help them get through a difficult time even if they just need someone to talk to.
+-On a positive note I plan to start a blog to help others who have been in similar situations and use whatever I can to help them get through a difficult time even if they just need someone to talk to.
 
 - I am happily married to a awesome Wife with 3 cool, very kind hearted kids. My Wife and I are Broken Hearted from the tragic loss of my oldest Son. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica!
 
