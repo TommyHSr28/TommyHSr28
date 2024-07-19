@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TommyHSr28 
 
-About Me
+About Me:
+
 Everyday is a challenge for me. I deal with Head Trauma which I believe was caused from multiple concussions while playing Football. I have other accounts that I signed up for in GitHub that I don't remember which ones they are.
 
 I was a millionaire then lost everything from a bad investment 'Ponzi Scheme' and now my Wife and I are living in my car trying to get back on our feet. I have also recently been a victim of Identity Theft which has been a nightmare for me to clean up the mess it caused. 
