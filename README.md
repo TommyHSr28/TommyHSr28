@@ -1,5 +1,5 @@
 
-l0lp0- 👋 Hi, I’m @TommyHSr28 
+👋 Hi, I’m @TommyHSr28 
 
 About Me
 
