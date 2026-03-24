@@ -1,4 +1,3 @@
-
 👋 Hi, I’m @TommyHSr28 
 
 About Me
@@ -9,13 +8,13 @@ About Me
 
 - 🌱 I’m currently learning ...Web Development. 
 
-- 💞️ I’m looking to collaborate on ... putting an E-commerce website together and Helping others that suffer from Child Abuse by talking about their experiences and how they cope with the day to day struggles through a Blog.
+- 💞️ I’m looking to collaborate on ... putting an E-commerce website together and start a Blog in hopes to help others that experience trauma from having been abused as a child and also, having lost a child from a Drug Overdose.
 
 - 📫 How to reach me ...by email at tommyhsr28@gmail.com
 
 - 😄 Pronouns: ...He, Him
 
-- ⚡ Fun fact: ...My favorite cartoon character is Bugs Bunny! Favorite movie is 'The Godfather' My former Head Coach in College Won NFL Coach of the Year 3x and Won a Super Bowl with the Tampa Bay Buccaneers.
+- ⚡ Fun fact: ... Whenever I am stressed out or need a good laugh I watch Bugs Bunny! Favorite movie is "The Godfather". My former Head Coach in College Won NFL Coach of the Year with the Arizona Cardinals and won a Super Bowl as a Head Coach of the Tampa Bay Buccaneers.
 
 <!---
 TommyHSr28/TommyHSr28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
