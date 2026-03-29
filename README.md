@@ -1,22 +1,79 @@
-👋 Hi, I’m @TommyHSr28 
+# 👋 Hey, I'm Tommy H. — Welcome to My GitHub
 
-About Me
+> *"The comeback is always greater than the setback."*
 
-- I am happily married to a awesome Wife with 3 cool, very kind hearted kids. My Wife and I are Broken Hearted from the tragic loss of my oldest Son. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica!
+---
 
-- 👀 I’m interested in ... all areas of Technology, Sports, Helping Others when I can.
+## 🧭 About Me
 
-- 🌱 I’m currently learning ...Web Development. 
+I'm a **web developer** and **serial entrepreneur** based in the Philadelphia area. I've built and successfully sold two companies, and now my wife **Gina** and I are building something new — something that matters more than profit.
 
-- 💞️ I’m looking to collaborate on ... putting an E-commerce website together and start a Blog in hopes to help others that experience trauma from having been abused as a child and also, having lost a child from a Drug Overdose.
+We are the co-founders of **TGH Strategies** — a startup umbrella company launched in **March 2026**, built from scratch with heart, grit, and a shared purpose.
 
-- 📫 How to reach me ...by email at tommyhsr28@gmail.com
+- 😄 **Pronouns:** He / Him
+- 💍 **Married to Gina** — IT professional (Project Management background), returning to tech, and my partner in everything
+- 👨‍👩‍👧‍👦 **Proud parent** of 3 kind-hearted kids
+- 💙 **In loving memory** of our oldest son — he is the reason behind everything we do
 
-- 😄 Pronouns: ...He, Him
+---
 
-- ⚡ Fun fact: ... Whenever I am stressed out or need a good laugh I watch Bugs Bunny! Favorite movie is "The Godfather". My former Head Coach in College Won NFL Coach of the Year with the Arizona Cardinals and won a Super Bowl as a Head Coach of the Tampa Bay Buccaneers.
+## 🏢 TGH Strategies — Our Company
 
-<!---
-TommyHSr28/TommyHSr28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**TGH Strategies** is a family-founded technology startup serving as an umbrella company for a growing set of ventures, including:
+
+| Subsidiary Focus | Status |
+|---|---|
+| 🛒 E-Commerce Website(s) | In Development |
+| 📱 Technology App | Planning Phase |
+| 💙 Trauma Support Blog & Resource Platform | In Development |
+
+> We don't have deep pockets. We have deep resolve.
+
+---
+
+## 💻 What I'm Working On
+
+- 🌱 **Sharpening** my web development skills with modern tools and frameworks
+- 🛒 **Building** e-commerce experiences from the ground up
+- 💙 **Creating** a blog and resource platform for trauma survivors — covering childhood trauma, loss of a child, and rebuilding life after devastating setbacks
+- 🤝 **Collaborating** with others who want to build something meaningful
+
+---
+
+## 💙 My Personal Mission — Trauma, Resilience & Giving Back
+
+I've lived through things I wouldn't wish on anyone:
+
+- Childhood trauma and abuse
+- The devastating loss of my oldest son to a drug overdose
+- Losing our home to a Ponzi scheme
+
+I'm not sharing this for sympathy. I'm sharing it because **if you've been through something similar, you are not alone**, and I want to help build something that reflects that. A place where people who've been through loss, grief, abuse, or devastating setbacks can find real information, real community, and real hope.
+
+If you've experienced trauma and want to connect, collaborate, or contribute — **reach out**.
+
+---
+
+## ⚡ A Little More About Me
+
+- 🏈 Lifelong **Philadelphia sports fan** (Eagles, Phillies, Sixers, Flyers — all of them)
+- 🎸 Cannot go a single day without listening to **Metallica**
+- 🐰 When stressed, nothing helps quite like **Bugs Bunny** (seriously, it works)
+- 🎬 All-time favorite movie: **The Godfather**
+- 🏆 My former college head coach went on to win **NFL Coach of the Year** with the Arizona Cardinals and a **Super Bowl** as head coach of the Tampa Bay Buccaneers
+
+---
+
+## 📫 Get In Touch
+
+| | |
+|---|---|
+| 📧 Email | [tommyhsr28@gmail.com](mailto:tommyhsr28@gmail.com) |
+| 🏢 Company | TGH Strategies |
+| 🤝 Open To | Collaboration, partnerships, and meaningful conversations |
+
+---
+
+<p align="center">
+  <em>Built with resilience. Driven by purpose. Dedicated to our son. 💙</em>
+</p>
