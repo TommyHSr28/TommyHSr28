@@ -1,8 +1,6 @@
-👋 Hi, I’m @TommyHSr28 
+👋 Hi, my name is Tommy Sr (TommyHSr28)
 
-About Me
-
-- I am happily married to a awesome Wife with 3 cool, very kind hearted kids. My Wife and I are Broken Hearted from the tragic loss of my oldest Son. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica!
+- 😎 About Me...I am happily married to a awesome Wife with 3 cool, very kind hearted kids. Both my wife and I are hurting deeply from the tragic loss of our oldest Son Tommy Jr. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica!
 
 - 👀 I’m interested in ... all areas of Technology, Sports, Helping Others when I can.
 
@@ -14,7 +12,7 @@ About Me
 
 - 😄 Pronouns: ...He, Him
 
-- ⚡ Fun fact: ... Whenever I am stressed out or need a good laugh I watch Bugs Bunny! Favorite movie is "The Godfather". My former Head Coach in College Won NFL Coach of the Year with the Arizona Cardinals and won a Super Bowl as a Head Coach of the Tampa Bay Buccaneers.
+- ⚡ Fun fact: ... Whenever I am stressed out or need a good laugh I watch Bugs Bunny! Favorite movie is "Forrest Gump". My former Head Coach in College at Temple University Bruce Arians Won NFL Coach of the Year with the Arizona Cardinals and won a Super Bowl as a Head Coach of the Tampa Bay Buccaneers.
 
 <!---
 TommyHSr28/TommyHSr28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
