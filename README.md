@@ -3,7 +3,7 @@ l0lp0- 👋 Hi, I’m @TommyHSr28
 
 About Me
 
-- I am happily married to a awesome Wife with 3 cool, very kind hearted kids. My Wife and I are Broken Hearted from the tragic loss of my oldest Son. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica! 🤘 Join me on the [Metallica Forums](https://forums.metallica.com/invites/uPkHRo1aT6)!
+- I am happily married to an awesome wife with three cool, very kind-hearted kids. My wife and I are heartbroken from the tragic loss of my oldest son. I love my Philadelphia sports teams and cannot go a day without listening to Metallica! 🤘 Join me on the [Metallica Forums](https://forums.metallica.com/invites/uPkHRo1aT6)!
 
 - 👀 I’m interested in ... all areas of Technology, Sports, Helping Others when I can.
 
