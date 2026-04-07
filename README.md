@@ -12,7 +12,9 @@
 
 - 😄 Pronouns: ...He, Him
 
-- 🤘 My Inspiration...the lyrics of Metallica, "You rise, you fall, you're down then you rise again. What don't kill ya make ya more strong!" — Broken, Beat & Scarred 
+- 🤘 My Inspiration...the lyrics of Metallica, "You rise, you fall, you're down then you rise again. What don't kill ya make ya more strong!" — Broken, Beat & Scarred
+
+- 🎁 The best gift you can give yourself is to forgive!
 
 - ⚡ Fun fact: ... Whenever I am stressed out or need a good laugh I watch Bugs Bunny! Favorite movie is "Forrest Gump". My former Head Coach at Temple University Bruce Arians, Won NFL Coach of the Year with the Arizona Cardinals and won a Super Bowl as a Head Coach of the Tampa Bay Buccaneers.
 
