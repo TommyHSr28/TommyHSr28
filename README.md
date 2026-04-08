@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on ... putting an E-commerce website together and start a Blog in hopes to help others that experience trauma from having been abused as a child and also, having lost a child from a Drug Overdose.
 
-- 📫 How to reach me ...by email at tommyhsr28@gmail.com or info@noleafclover.org
+- 📫 How to reach me ...by email at tommyhsr28@gmail.com or info@tghstrategies.com
 
 - 😄 Pronouns: ...He, Him
 
