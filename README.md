@@ -1,12 +1,12 @@
 👋 Hi, my name is Tommy Sr (TommyHSr28)
 
-- 😎 About Me...I am happily married to a awesome Wife with 3 cool, very kind hearted kids. Both my wife and I are heartbroken from the tragic loss of our oldest Son Tommy Jr. I love my Philadelphia Sports teams and cannot go a day without listening to Metallica who has saved my life many times!
+- 😎 About Me...I am happily married to a awesome Wife Gina and 3 very cool, kind hearted kids Tommy Jr RIP, Laryssa and Danny. Our family is heartbroken over the tragic loss of our oldest Son Tommy Jr from a Drug Overdose. Philadelphia Sports fan and cannot go a day without Listening to Metallica who has saved my life from the darkest moments in my life!
 
-- 👀 I’m interested in ... all areas of Technology, Sports, Helping Others when I can.
+- 👍 I’m interested in ... all areas of Technology, Sports, Helping Others when I can.
 
-- 🌱 I’m currently working on...Web Hosting Management, Web Development, Cloudflare Security, and Google Cloud Platform (GCP).
+- 💼 I’m currently working on...Web Hosting Management, Web Development, Cloudflare Security, and Google Cloud Platform (GCP).
 
-- 💞️ I’m looking to collaborate on ... putting an E-commerce website together and start a Blog in hopes to help others that experience trauma from having been abused as a child and also, having lost a child from a Drug Overdose.
+- 🤔 I’m looking to collaborate on ... putting an E-commerce website together and start a Blog in hopes to help others that experience trauma from having been abused as a child and also, having lost a child from a Drug Overdose.
 
 - 📫 How to reach me ...by email at tommyhsr28@gmail.com or info@tghstrategies.com
 
